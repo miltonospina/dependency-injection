@@ -1,4 +1,3 @@
-//https://nehalist.io/dependency-injection-in-typescript/
 import 'reflect-metadata';
 
 const deco = (): ClassDecorator => {
